@@ -2,8 +2,8 @@ let firstNumber = 18;
 let userName = "Mirjalol";
 console.log(typeof userName,"ning", "yoshi",typeof firstNumber,"da")
 
-// let isUser = true;
-// console.log(typeof isUser)
+let isUser = true;
+console.log(typeof isUser)
 
 
 // // "null" => bu bo'sh qiymatga ega bo'lgan tur

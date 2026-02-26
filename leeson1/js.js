@@ -6,9 +6,9 @@ let isUser = true;
 console.log(typeof isUser)
 
 
-// // "null" => bu bo'sh qiymatga ega bo'lgan tur
-// let school = null;
-// console.log(typeof school)
+// "null" => bu bo'sh qiymatga ega bo'lgan tur
+let school = null;
+console.log(typeof school)
 
 // // "Symbol" => yagona "unique" va o'zgarmaas qiymatga ega bo'luvchi malumot turi
 // let id = Symbol("id");

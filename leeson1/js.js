@@ -10,9 +10,9 @@ console.log(typeof isUser)
 let school = null;
 console.log(typeof school)
 
-// // "Symbol" => yagona "unique" va o'zgarmaas qiymatga ega bo'luvchi malumot turi
-// let id = Symbol("id");
-// console.log(typeof id)
+// "Symbol" => yagona "unique" va o'zgarmaas qiymatga ega bo'luvchi malumot turi
+let id = Symbol("id");
+console.log(typeof id)
 
 // // "BigInt" => Katta sonlarni saqlashga mo'jjanlangan malumot turi
 // const alsoHuge = BigInt (12345567899876543);

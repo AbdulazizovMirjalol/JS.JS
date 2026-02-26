@@ -14,6 +14,6 @@ console.log(typeof school)
 let id = Symbol("id");
 console.log(typeof id)
 
-// // "BigInt" => Katta sonlarni saqlashga mo'jjanlangan malumot turi
-// const alsoHuge = BigInt (12345567899876543);
-// console.log(typeof alsoHuge)
+// "BigInt" => Katta sonlarni saqlashga mo'jjanlangan malumot turi
+const alsoHuge = BigInt (12345567899876543);
+console.log(typeof alsoHuge)
